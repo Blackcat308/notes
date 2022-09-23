@@ -31,7 +31,7 @@ module.exports = [
       autoCreateIssue: true,
       clientId: "72d2b8f754310fa5e5b7",
       clientSecret: "1bdaec0e39d8f85ab93c731781d70af65de3d7db",
-      owner: "Blackcat308",
+      owner: "blackcat308",
       repo: "blackcat308.github.io",
     },
   ],
