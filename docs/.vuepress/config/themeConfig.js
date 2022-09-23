@@ -40,8 +40,8 @@ module.exports = {
   },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: '二丫讲梵', // 必需
-    link: 'https://github.com/eryajf', // 可选的
+    name: 'LaoCat', // 必需
+    link: 'https://github.com/Blackcat308', // 可选的
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -68,6 +68,6 @@ module.exports = {
     // 页脚信息
     createYear: 2022, // 博客创建年份
     copyrightInfo:
-      'Eryajf | <a href="https://github.com/eryajf/LaoCat/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'Eryajf | <a href="https://github.com/LaoCat/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   }
 }
